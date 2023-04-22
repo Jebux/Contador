@@ -15,4 +15,5 @@ function save(){
     count = 0;
     incrementel.textContent = 0;
     console.log('guardado')
+    
 }
