@@ -1,0 +1,42 @@
+body{
+    font-family:sans-serif;
+    text-align: center;
+    background-image: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)),url(https://upload.wikimedia.org/wikipedia/commons/a/aa/Estadio_El_Campin_vac%C3%ADo.jpg);
+    background-size: cover;
+}
+
+h1{
+
+    margin-bottom: 10px;
+}
+
+h2{
+    font-size: 3.5em;
+    margin-top: 0;
+    margin-bottom: 0;
+
+}
+
+p{
+    margin-top: 0px;
+}
+
+button{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 200px;
+    border-radius: 8px;
+    border:none;
+    margin-bottom: 5px;
+    font-size: 1.15em;
+    color: white;
+}
+
+#incremento-btn{
+    background: darkred;
+}
+
+#save-btn{
+    background: darkgreen;
+}
+
